@@ -52,4 +52,4 @@ public class TestResult {
 
 ## Результат
 
-![task1](https://github.com/kachka16/java-2-kachka16/blob/main/Solution/результат.png?raw=true)
+![task1](https://github.com/kachka16/java-2-kachka16/blob/master/img/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82.png?raw=true)
